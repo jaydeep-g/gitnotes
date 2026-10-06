@@ -1,0 +1,1 @@
+[invoice.pdf](assets/invoice-20261006-115503-752.pdf)
